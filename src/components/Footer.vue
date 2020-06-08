@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Hamish Watson (AKS) workshop
+       Hamish Watson's (AKS) workshop
       </div>
       <div class="col-lg-6">
       </div>
