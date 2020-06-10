@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-       Hamish Watson's (AKS) workshop
+       Callaghan Innovation DevOps Workshop
       </div>
       <div class="col-lg-6">
       </div>
